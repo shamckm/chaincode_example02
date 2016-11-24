@@ -1,1 +1,1 @@
-# chaincode_example02
+# README of chaincode_example02
